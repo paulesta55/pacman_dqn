@@ -1,5 +1,5 @@
 # pacman_dqn
-DQN implementation to play Pacman on [GYM Atari](https://gym.openai.com) Environment. 
+[DQN](https://arxiv.org/abs/1312.5602) implementation to play Pacman on [GYM Atari](https://gym.openai.com) Environment. 
 
 ## Dependencies:
 * [GYM Atari](https://gym.openai.com) (this should work on windows but please follow this [tutorial](https://github.com/openai/gym#installation)
